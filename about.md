@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+First Year CS students. 
 
-### More Information
+### Kashif
 
-A place to include any other types of information that you'd like to include about yourself.
+Visual Effects "Artist" who happens to know some code. 
+
+### Michelle 
+
+Michelle needs to add smth here thx. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[I'llFigureThisOut@SomePoint.com](mailto:email@domain.com)
