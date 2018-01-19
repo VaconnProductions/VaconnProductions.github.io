@@ -11,7 +11,7 @@ Hello, it's Michelle finally helping out with the blog! This post will share som
 The Roman Flag was the first flag I designed, it took some time for me to be satisfied with the look of it. I also was unsure of how the spacing and outlining of the flag would work, so much time was put into experimenting. This flag is pretty similar to the actual Roman Empire Flag, but I did try to vary the wings and stance of the eagle. 
 
 ## Egyptian Flag
-![egyptFlag](/images/egyptFlag.png "egyptFlag") ]
+![egyptFlag](/images/egyptFlag.png "egyptFlag")
 
 I felt a lot more comfortable with this style after the Roman Flag. For Egypt I wanted to incorporate pyramids into it, which is the reason for the triangular outline which surrounds the pharaoh. Another idea I had included the sphinx, which was way too complex and had an awkard shape that would be hard to work around. At this time, I was having quite alot of fun with these and was quite absorbed into creating them.
 
