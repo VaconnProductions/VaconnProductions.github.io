@@ -4,7 +4,6 @@ title: Empire Flag Designs
 ---
 
 Hello, it's Michelle finally helping out with the blog!
-
 This post will share some insight on how I designed the flag symbols for the various empires in the game. I learned quite a lot from this experience, and it was quite fun to draw these! I managed to finish all 7 designs in a day, in approximately 6-8 hours. I will talk briefly about each Empire, in the order of completion.
 
 ## Roman Flag
