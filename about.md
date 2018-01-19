@@ -12,7 +12,7 @@ Visual Effects "Artist" who happens to know some code.
 
 ### Michelle 
 
-Michelle needs to add smth here thx. 
+Self-taught "Artist" who also happens to know some code.
 
 ### Contact me
 
