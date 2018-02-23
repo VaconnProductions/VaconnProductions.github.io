@@ -13,7 +13,7 @@ The gif just shows: switching characters, picking characters and switching batta
 
 In terms of code there is nothing crazy going on, a lot of Unity specific code was learned while making this menu which should hopefully help with the rest of the game. I'll just point out a few cool things that came up while writing this and maybe it can give a heads up to others. 
 
-#Sort
+# Sort
 When sorting the characters in the grid, enumerations made sorting dead simple. In a nutshell, it creates a set of values that belongs to an "enumeration" class and each value is assigned to an integer starting from zero. 
 
 {% highlight C# %}
@@ -31,7 +31,7 @@ for (int i = 0; i < availableCharacters.Count; i++)
 }
 {% endhighlight %}
 
-#Enumerator
+# Enumerator
 A Unity function which I've already abused is Coroutines. They allow you to run a function, specifically of return type IEnumerator, and wait for the following update frame or time to continue at any point within the function. 
 For instance: 
 
