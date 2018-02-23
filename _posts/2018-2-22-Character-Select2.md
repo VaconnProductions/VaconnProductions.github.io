@@ -13,6 +13,6 @@ The four soldier options available at the bottom and stats indicating the overal
 
 Once again the entire code for this menu is a lot of brute force and just simple structuring. There were some instances where I needed to go around multiple classes just to get a something to fade out. The key thing I leanred is definitely the importance of good naming especially when code gets incredibly long, and your only tool for survival is CNTRL-F. 
 
-The majority of the code is now available [here](https://github.com/VaconnProductions/LostEmpireDev). Can take a look if your interested but be warry as its a complete mess. Thats all for now!
+The majority of the code is now available [here](https://github.com/VaconnProductions/LostEmpireDev). Can take a look if your interested but be wary as its a complete mess. Thats all for now!
 
 -Kashif
