@@ -16,4 +16,4 @@ Self-taught "Artist" who also happens to know some code.
 
 ### Contact me
 
-[I'llFigureThisOut@SomePoint.com](mailto:email@domain.com)
+[Kashif.Hussain1@uoit.net](mailto:Kashif.Hussain1@UOIT.net)
