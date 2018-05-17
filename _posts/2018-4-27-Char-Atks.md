@@ -8,6 +8,8 @@ Now that first year is finished, it is time to update the blog! It has been a wh
 ## Hypatia
 
 ![hyAtk](/images/hyAtk.jpg "HypatiaAtk")
+This is an entry for [CGTrader Digital Art Competition](https://www.cgtrader.com/)
+
 
 I actually did this during the small sliver of time I had during reading week. I realized that being lazy does not help at all, therefore I tried my best to draw her hands and cape as dynamic as possible in every frame. Before, I would try to create attacks that wouldn't move the limbs too much so that I could finish the animations faster. However, this does not make for an interesting character! So from now on I hope to create innovative and dynamic movements for all the characters.
 
@@ -21,4 +23,4 @@ Here is an example of the full three attacks that will be standardized throughou
 
 Don't be lazy, but don't exhaust all your efforts into a small portion of a big project!
 
--ML
+-ML (Participant of CGTrader Digital Art Competition)
