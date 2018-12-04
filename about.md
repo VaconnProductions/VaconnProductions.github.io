@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-First Year CS students. 
+Second Year CS students. 
 
 ### Kashif
 
